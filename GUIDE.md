@@ -3,7 +3,9 @@
 Branche `sanipure-facebook` du dépôt FranceDeratisation/Ads-Lyon. Elle sert de stockage public pour les visuels envoyés à Metricool.
 
 ## Paramètres fixes
-- Metricool : marque « Sanipure », blogId `7676027`, réseau `facebook` uniquement, `facebookData.type = POST`, `autoPublish: true`.
+- Metricool : marque « Sanipure », blogId `7676027`, réseaux `facebook` ET `instagram` (compte sanipure.fr) sur chaque post, `facebookData.type = POST`, `instagramData.type = POST`, `autoPublish: true`.
+- `instagramData.isAiGenerated` : `true` si le visuel contient une photo de la photothèque (photos générées par IA), `false` pour un visuel 100 % texte (yellow_list, myth).
+- Sur Instagram le lien n'est pas cliquable : garder l'URL dans la légende, c'est le même texte pour les deux réseaux.
 - Fuseau : Europe/Paris. Publication lundi, mercredi, vendredi à 18:30.
 - Lien d'appel à l'action : https://sanipure.fr/contact/
 - URL publique d'une image : `https://raw.githubusercontent.com/FranceDeratisation/Ads-Lyon/sanipure-facebook/<chemin>`
