@@ -6,7 +6,10 @@ Branche `sanipure-facebook` du dépôt FranceDeratisation/Ads-Lyon. Elle sert de
 - Metricool : marque « Sanipure », blogId `7676027`, réseaux `facebook` ET `instagram` (compte sanipure.fr) sur chaque post, `facebookData.type = POST`, `instagramData.type = POST`, `autoPublish: true`.
 - `instagramData.isAiGenerated` : `true` si le visuel contient une photo de la photothèque (photos générées par IA), `false` pour un visuel 100 % texte (yellow_list, myth).
 - Sur Instagram le lien n'est pas cliquable : garder l'URL dans la légende, c'est le même texte pour les deux réseaux.
-- Fuseau : Europe/Paris. Publication lundi, mercredi, vendredi à 18:30.
+- Fuseau : Europe/Paris. 6 posts par semaine :
+  - Soir (lundi, mercredi, vendredi 18:30) : posts complets (conseils, signes, offre, méthode, FAQ), carrousels possibles.
+  - Matin (mardi, jeudi, samedi 08:00) : format court, 1 image. Mardi et jeudi « LE SAVIEZ-VOUS ? » (gabarit `fact`), samedi « ASTUCE DU SAMEDI » (gabarit `fact` ou `yellow_list`). Exemple : `tools/matin_novembre.py`.
+  - Faits du matin : uniquement des faits établis et vérifiables, sans chiffre précis non sourcé.
 - Lien d'appel à l'action : https://sanipure.fr/contact/
 - URL publique d'une image : `https://raw.githubusercontent.com/FranceDeratisation/Ads-Lyon/sanipure-facebook/<chemin>`
   (Metricool copie l'image chez lui à la programmation).

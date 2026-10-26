@@ -151,3 +151,35 @@ def myth(name,eyebrow,claim,verdict,expl,num,cta):
     d.rectangle((0,H-170,W,H),fill=K)
     footer(im,d,'SANIPURE.FR',cta)
     im.convert('RGB').save(OUT+name,quality=94)
+
+def fact(name,eyebrow,lines,expl,num,cta,src=None,focus=(0.5,0.5)):
+    """Format court du matin (« Le saviez-vous ? »). Avec photo : photo en haut + texte calé en bas.
+    Sans photo : fond noir, grand titre centré."""
+    x0=96 if src else 150
+    L=Image.new('RGBA',(W,H),(0,0,0,0)); d2=ImageDraw.Draw(L)
+    y=0; tag(d2,x0,y,eyebrow)
+    y+=110; y=headline(d2,x0-4,y,lines,112 if src else 128,W-x0-96)
+    y+=34
+    for l in wrap(d2,expl,M(500,36),W-x0-96): d2.text((x0,y),l,font=M(500,36),fill=G); y+=52
+    h=L.getbbox()[3]
+    im=Image.new('RGBA',(W,H),K+(255,))
+    if src:
+        top=H-200-h; ph_h=min(top+90,1200)
+        im.alpha_composite(cover(src,focus,(W,ph_h)).convert('RGBA'),(0,0))
+        g=Image.new('RGBA',(W,ph_h),(0,0,0,0)); gd=ImageDraw.Draw(g)
+        for yy in range(ph_h):
+            a=0
+            if yy<220: a=int(140*(1-yy/220)**1.5)
+            if yy>ph_h-260: a=max(a,int(255*((yy-(ph_h-260))/260)**1.6))
+            gd.line((0,yy,W,yy),fill=K+(a,))
+        im.alpha_composite(g)
+        logo(im,72,64,360)
+    else:
+        top=170+max(80,(H-340-h)//2)
+        d=ImageDraw.Draw(im); d.rectangle((0,0,W,170),fill=K); logo(im,72,40,360)
+        d=ImageDraw.Draw(im); d.rectangle((96,top-20,96+12,top+h+20),fill=Y)
+    d=ImageDraw.Draw(im)
+    tr(d,(W-96,84 if src else 72),num,M(800,26),WH,track=3,anchor='r')
+    im.alpha_composite(L.crop((0,0,W,h)),(0,top)); d=ImageDraw.Draw(im)
+    footer(im,d,'SANIPURE.FR',cta)
+    im.convert('RGB').save(OUT+name,quality=94)

@@ -1,6 +1,6 @@
 # Journal des publications Facebook SANIPURE
 
-Une ligne par post programmé dans Metricool. Sert à ne jamais répéter un sujet ou une photo trop tôt.
+Une ligne par post programmé dans Metricool (soir lun/mer/ven 18:30, matin mar/jeu/sam 8:00). Sert à ne jamais répéter un sujet ou une photo trop tôt.
 
 | Date | Thème | Sujet | Gabarit | Photo(s) | Zone |
 | --- | --- | --- | --- | --- | --- |
@@ -16,3 +16,15 @@ Une ligne par post programmé dans Metricool. Sert à ne jamais répéter un suj
 | 2026-11-23 | Idée reçue | Punaises = hygiène ? FAUX | myth | — | Montélimar |
 | 2026-11-25 | Punaises de lit | Préparer son logement | yellow_list | — | Chambéry |
 | 2026-11-27 | FAQ | Pourquoi ne pas traiter soi-même ? | photo | wide_realistic_high_detail_interior_scene_of_a_m.jpg | Villeurbanne |
+| 2026-11-03 08:00 | Punaises de lit | Le saviez-vous : plusieurs mois sans se nourrir | fact | 192F88E1-936E-4494-8FD0-0F4E8FAC7E80.jpg | Nîmes |
+| 2026-11-05 08:00 | Rongeurs | Le saviez-vous : ils rongent les câbles | fact | A3113FE0-FEBF-4CCC-AECE-09143EBD7F97.jpg | Annecy |
+| 2026-11-07 08:00 | Punaises de lit | Astuce : inspecter un meuble d'occasion | yellow_list | — | Montélimar |
+| 2026-11-10 08:00 | Saison | Le saviez-vous : l'hiver ne les arrête pas | fact | — | Chambéry |
+| 2026-11-12 08:00 | Cafards | Le saviez-vous : la blatte germanique | fact | 9991C703-51FE-4C4B-AAF9-C3C63397409E.jpg | Lyon |
+| 2026-11-14 08:00 | Mites alimentaires | Astuce : 3 réflexes anti-mites | yellow_list | — | Grenoble |
+| 2026-11-17 08:00 | Punaises de lit | Le saviez-vous : pas de maladie connue (ANSES) | fact | 51444C75-1FFD-4773-A51C-C190E0EFD653.jpg | Avignon |
+| 2026-11-19 08:00 | Réglementation | Le saviez-vous : logement décent = sans nuisibles (loi ELAN) | fact | B46E404A-95B5-452D-91E9-AA06F88BB475.jpg | Marseille |
+| 2026-11-21 08:00 | Punaises de lit | Astuce : lavage à 60 °C | fact | — | Valence |
+| 2026-11-24 08:00 | Punaises de lit | Le saviez-vous : elles sortent la nuit | fact | E00CA4E1-0C26-4FB2-96C7-5E0C8F9EAE1F.jpg | Montpellier |
+| 2026-11-26 08:00 | Professionnels | Le saviez-vous : restaurateurs, prévenir | fact | 57DFD5CB-AD53-41FD-BE33-500995AE0CCF.jpg | Aix-en-Provence |
+| 2026-11-28 08:00 | Rongeurs | Astuce : 3 indices de souris | yellow_list | — | Villeurbanne |
