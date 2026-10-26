@@ -28,3 +28,4 @@ Une ligne par post programmé dans Metricool (soir lun/mer/ven 18:30, matin mar/
 | 2026-11-24 08:00 | Punaises de lit | Le saviez-vous : elles sortent la nuit | fact | E00CA4E1-0C26-4FB2-96C7-5E0C8F9EAE1F.jpg | Montpellier |
 | 2026-11-26 08:00 | Professionnels | Le saviez-vous : restaurateurs, prévenir | fact | 57DFD5CB-AD53-41FD-BE33-500995AE0CCF.jpg | Aix-en-Provence |
 | 2026-11-28 08:00 | Rongeurs | Astuce : 3 indices de souris | yellow_list | — | Villeurbanne |
+| 2026-10-27 00:26 | Marque | Présentation SANIPURE (publié immédiatement) | photo | E4745DD0-BDEB-4890-99F1-31120A8E7EE7.jpg | Tout le réseau |
