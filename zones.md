@@ -24,6 +24,8 @@ Ne jamais inventer d'adresse d'agence ni de délai d'intervention ; formulation 
 - Cafards : #cafards #blattes #desinsectisation #anticafards
 - Rongeurs : #deratisation #souris #rats #antirongeurs
 - Général : #antinuisibles #nuisibles #desinsectisation #hygiene #syndic (pros)
+- Métier (en alterner 1 par post) : #exterminateur #deratiseur #expertantinuisibles #entrepriseantinuisibles #desinsectiseur
+- Autres insectes : #mites #mitesalimentaires #poissondargent #anthrenes #puces
 - Marque (toujours) : #sanipure
 
 ## Règles légende SEO

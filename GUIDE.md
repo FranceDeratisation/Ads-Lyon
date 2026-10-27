@@ -27,7 +27,8 @@ Branche `sanipure-facebook` du dépôt FranceDeratisation/Ads-Lyon. Elle sert de
 - Jamais de promesse d'élimination garantie, jamais de « 100 % », jamais de prix inventé, jamais de faux avis ou faux chiffres.
 - Un seul appel à l'action par post, vers https://sanipure.fr/contact/
 - Rotation des piliers : conseils pratiques (~35 %), repérer les signes (~20 %), offre/service (~20 %), coulisses/méthode (~15 %), FAQ (~10 %).
-- Thèmes : punaises de lit, cafards, rongeurs, guêpes/frelons (printemps-été), fourmis, désinfection ; tenir compte de la saison.
+- Thèmes et priorités : suivre `sujets.md` (audit du site). ~85 % punaises de lit, cafards, souris/rats ; 1 post pros par semaine ; mites, poissons d'argent, anthrènes, puces en complément. JAMAIS guêpes, frelons ni moustiques.
+- Faits, chiffres et arguments : uniquement ceux listés dans `sujets.md` (repris de sanipure.fr) ou des faits établis ; l'Observatoire se cite « dans nos interventions ».
 - Ne pas reprendre un sujet publié dans les 8 dernières semaines, ni la même photo dans les 4 dernières semaines (voir `publications.md`).
 - Légende : 400 à 900 caractères, liste à puces ou numérotée, lien. SEO local et hashtags : suivre `zones.md` (1re ligne service + ville, phrase de zone, 6 à 8 hashtags, texte alternatif sur chaque image).
 - Colonne « Zone » du journal `publications.md` : noter la ville principale ciblée, pour poursuivre la rotation.
