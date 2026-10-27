@@ -19,6 +19,18 @@ Ne jamais inventer d'adresse d'agence ni de délai d'intervention ; formulation 
 | 11 | Chambéry | Aix-les-Bains, Albertville, La Motte-Servolex | Savoie (73) | #chambery #savoie #aixlesbains |
 | 12 | Villeurbanne | Lyon, Vaulx-en-Velin, Décines | Rhône (69) | #villeurbanne #vaulxenvelin #rhone |
 
+## Zones réservées aux posts PUNAISES DE LIT
+Ces 3 zones ne s'utilisent QUE pour un post sur les punaises de lit (jamais cafards, rongeurs, pros généraux ou autres insectes).
+Les intercaler dans la rotation dès qu'un post punaises de lit tombe dessus (environ 1 post punaises sur 3).
+
+| # | Ville principale | Villes voisines à citer | Département (n°) | Hashtags zone |
+| --- | --- | --- | --- | --- |
+| P1 | Paris | — (citer seulement Paris) | Paris (75) | #paris #punaisesdelitparis #paris75 |
+| P2 | Toulon | La Seyne-sur-Mer, Hyères, La Garde | Var (83) | #toulon #var #hyeres |
+| P3 | Cannes | Antibes, Le Cannet, Grasse | Alpes-Maritimes (06) | #cannes #alpesmaritimes #antibes |
+
+Articles : à Paris (75), dans tout le Var (83), dans toutes les Alpes-Maritimes (06).
+
 ## Banque de hashtags service (choisir 2-3 par post)
 - Punaises de lit : #punaisesdelit #punaisedelit #traitementpunaisesdelit #bedbugs
 - Cafards : #cafards #blattes #desinsectisation #anticafards
